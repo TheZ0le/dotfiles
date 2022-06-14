@@ -1,0 +1,9 @@
+2022/06/14-17:53:08.915 5 Reusing MANIFEST /home/jannik/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/14-17:53:08.916 5 Recovering log #3
+2022/06/14-17:53:08.918 5 Reusing old log /home/jannik/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/06/14-18:17:18.405 9 Level-0 table #5: started
+2022/06/14-18:17:18.407 9 Level-0 table #5: 33551 bytes OK
+2022/06/14-18:17:18.408 9 Delete type=0 #3
+2022/06/14-18:45:31.226 9 Level-0 table #7: started
+2022/06/14-18:45:31.228 9 Level-0 table #7: 17808 bytes OK
+2022/06/14-18:45:31.229 9 Delete type=0 #4

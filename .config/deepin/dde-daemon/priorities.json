@@ -1,0 +1,83 @@
+{
+  "Output": {
+    "Ports": [
+      {
+        "CardName": "alsa_card.usb-Shure_Inc_Shure_MV7-00",
+        "PortName": "iec958-stereo-output",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.usb-Shure_Inc_Shure_MV7-00",
+        "PortName": "analog-output",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.usb-FIIO_FiiO_USB_DAC-E10-01",
+        "PortName": "iec958-stereo-output",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.usb-FIIO_FiiO_USB_DAC-E10-01",
+        "PortName": "analog-output",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.pci-0000_29_00.1",
+        "PortName": "hdmi-output-2",
+        "PortType": 3
+      },
+      {
+        "CardName": "alsa_card.pci-0000_29_00.1",
+        "PortName": "hdmi-output-1",
+        "PortType": 3
+      },
+      {
+        "CardName": "alsa_card.pci-0000_29_00.1",
+        "PortName": "hdmi-output-0",
+        "PortType": 3
+      },
+      {
+        "CardName": "alsa_card.pci-0000_2b_00.3",
+        "PortName": "analog-output-lineout",
+        "PortType": 4
+      }
+    ],
+    "Types": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "Input": {
+    "Ports": [
+      {
+        "CardName": "alsa_card.usb-Shure_Inc_Shure_MV7-00",
+        "PortName": "analog-input",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.usb-046d_HD_Pro_Webcam_C920_E77795AF-02",
+        "PortName": "iec958-stereo-input",
+        "PortType": 1
+      },
+      {
+        "CardName": "alsa_card.usb-046d_HD_Pro_Webcam_C920_E77795AF-02",
+        "PortName": "analog-input-mic",
+        "PortType": 1
+      }
+    ],
+    "Types": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
